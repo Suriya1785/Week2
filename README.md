@@ -1,0 +1,1 @@
+This is repository for Week 2 Modules of JavaScript bootcamp
